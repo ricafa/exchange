@@ -52,3 +52,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #added gems
 gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'rest-client'
